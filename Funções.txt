@@ -1,0 +1,45 @@
+Leia: https://www.dio.me/articles/funcoes-em-c
+
+Exercícios:
+
+1 - Crie um método/função que receba 3 inteiros (DD/MM/AAAA) e exiba a data por extenso, ex: "01 de Janeiro de 2027".
+
+2 -  Escreva um programa que exiba as seguintes opções e realize os que se pede em cada uma delas: 
+    1 – Adição 
+    2 – Subtração 
+    3 – Multiplicação 
+    4 – Divisão
+
+3 - Escreva um programa que retorne o número do quadrante (1,2,3 ou 4) através de um método chamado 
+VERIFICA_QUADRANTE, que deve receber um valor para x e um valor para y. 
+
+      Quadrantes 
+        x  | 
+           | 
+2º         |         1º 
+           | 
+y ------------------------------ 
+           | 
+           | 
+3º         |         4º 
+           | 
+
+
+4 - Escreva um programa que deverá ter as seguintes opções (cada uma delas chama uma função): 
+        1 - Carregar Vetor  
+        2 - Listar Vetor 
+        3 - Exibir apenas os números pares do vetor 
+        4 - Exibir apenas os números ímpares do vetor 
+        5 - Exibir a quantidade de números pares existem nas posições ímpares do vetor 
+        6 - Exibir a quantidade de números ímpares existem nas posições pares do vetor 
+        7 - Sair 
+
+5 - Escreva uma função que calcule a circunferência de um círculo, recebendo o raio. 
+
+6 - Escreva uma função que calcule a área de um círculo, recebendo o raio.
+
+7 - Escreva uma função que conte o numero de vogais de uma string passada como parâmetro.
+
+8 - Crie uma função que receba a temperatura em graus Celsius e retorne em Kelvin. 
+
+9 - Escreva uma função que calcule a área de um triângulo, recebendo base e altura.
