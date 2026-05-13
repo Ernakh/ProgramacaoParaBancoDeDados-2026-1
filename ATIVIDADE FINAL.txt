@@ -1,0 +1,34 @@
+Projeto: Biblioteca Simples
+
+A ideia é criar um sistema pequeno para cadastrar categorias e livros. Cada livro pertence a uma categoria.
+
+TABELAS
+
+1. Categoria
+CREATE TABLE Categorias (
+    IdCategoria INT PRIMARY KEY IDENTITY,
+    Nome VARCHAR(100) NOT NULL
+);
+
+2. Livro
+CREATE TABLE Livros (
+    IdLivro INT PRIMARY KEY IDENTITY,
+    Titulo VARCHAR(150) NOT NULL,
+    Autor VARCHAR(100) NOT NULL,
+    AnoPublicacao INT,
+    IdCategoria INT NOT NULL,
+    FOREIGN KEY (IdCategoria) REFERENCES Categoria(IdCategoria)
+);
+
+
+RELAÇÃO
+Uma categoria pode ter vários livros, mas cada livro pertence a apenas uma categoria.
+
+O projeto pode ter:
+- Cadastro de categorias.
+- Cadastro de livros.
+- Listagem de livros com o nome da categoria.
+- Edição de livros.
+- Exclusão de livros.
+- Busca de livros por título ou autor.
+
