@@ -1,0 +1,10 @@
+C:\Users\fabri\source\repos\ADONetCRUD\ADONetCRUD\obj\Debug\ADONetCRUD.csproj.AssemblyReference.cache
+C:\Users\fabri\source\repos\ADONetCRUD\ADONetCRUD\obj\Debug\ADONetCRUD.Form1.resources
+C:\Users\fabri\source\repos\ADONetCRUD\ADONetCRUD\obj\Debug\ADONetCRUD.Properties.Resources.resources
+C:\Users\fabri\source\repos\ADONetCRUD\ADONetCRUD\obj\Debug\ADONetCRUD.csproj.GenerateResource.cache
+C:\Users\fabri\source\repos\ADONetCRUD\ADONetCRUD\obj\Debug\ADONetCRUD.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\ADONetCRUD\ADONetCRUD\bin\Debug\ADONetCRUD.exe.config
+C:\Users\fabri\source\repos\ADONetCRUD\ADONetCRUD\bin\Debug\ADONetCRUD.exe
+C:\Users\fabri\source\repos\ADONetCRUD\ADONetCRUD\bin\Debug\ADONetCRUD.pdb
+C:\Users\fabri\source\repos\ADONetCRUD\ADONetCRUD\obj\Debug\ADONetCRUD.exe
+C:\Users\fabri\source\repos\ADONetCRUD\ADONetCRUD\obj\Debug\ADONetCRUD.pdb
